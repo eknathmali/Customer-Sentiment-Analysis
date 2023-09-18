@@ -10,5 +10,4 @@
 </ul>
 
 <h2>Sentiment Class Distribution</h2>
-![Sentiment_Class_Count](https://github.com/eknathmali/Customer-Sentiment-Analysis/assets/89828172/15c8ccbb-9971-4f55-826d-20b2aee207a4)
-  <img src="https://github.com/eknathmali/Customer-Sentiment-Analysis/assets/89828172/15c8ccbb-9971-4f55-826d-20b2aee207a4" alt="WhatsApp Chat Analyzer" width="65" height = "65">
+<img src="https://github.com/eknathmali/Customer-Sentiment-Analysis/assets/89828172/15c8ccbb-9971-4f55-826d-20b2aee207a4">
